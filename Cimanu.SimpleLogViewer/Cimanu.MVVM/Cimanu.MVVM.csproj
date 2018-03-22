@@ -107,6 +107,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="CommandViewModel.cs" />
+    <Compile Include="Navigation.cs" />
+    <Compile Include="PageViewModelBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Cimanu.MVVM.rd.xml" />
   </ItemGroup>
